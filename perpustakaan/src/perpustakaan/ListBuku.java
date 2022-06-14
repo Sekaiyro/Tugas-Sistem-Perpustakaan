@@ -7,7 +7,7 @@ package perpustakaan;
 
 /**
  *
- * @author Adrian
+ * @author Adrian Pramana Wijaya-XRPL2
  */
 public class ListBuku {
     /** pemeberian nilai pada array "listBuku" dengan tipe class Buku */
