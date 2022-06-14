@@ -7,7 +7,7 @@ package perpustakaan;
 
 /**
  *
- * @author ZAKARIA
+ * @author Adrian Pramana Wijaya-XRPL2
  */
 public class Siswa {
     private final int idSiswa;
